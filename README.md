@@ -6,7 +6,7 @@ My team was alerted to a data leak of internal business plans on social media. A
 
 A supervisor provided you with information regarding the leak. It appears that the principle of least privilege was not observed by employees at the company during a sales meeting. I was asked to analyze the situation and find ways to prevent it from happening again.
 
-I thereby I analyse the information given and provided my input on the incident. 
+I thereby analysed the information given and provided my input on the incident. 
 
 ~Attached are screenshots of the worksheet that was completed by me. 
 
